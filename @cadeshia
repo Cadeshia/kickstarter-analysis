@@ -1,3 +1,17 @@
 # An Analysis of Kickstarter Campaigns
 ### *Performing analysis on Kickstarter data to uncover trends*
 #### By: Cadeshia
+###Overview
+This challenge was to gather data for my client; Louise for her campaign. Expressing data such as, averages, percentiles and central tendency.
+
+###Analysis and Challenges
+
+Some challenges I encountered were properly using the COUNTIFS function. Inexperience with that function made my subset data display incorrect number but due to my deadline I was unable to construct an accurate line graph for the Goals Based on Outcomes section.
+
+###Results
+
+####Launch Dates
+In conclusion based on the Launch Dates Louise best option would be to Launch in May or June. Given that those had the higher rate of success. Where as January and March had a higher chance to fail.
+
+####Outcomes Based on Goals
+I struggled with this portion so my data is inaccurate but I would advise Louise to obtain 100% rate to achieve her goal by getting 45000-49999 pledges.
